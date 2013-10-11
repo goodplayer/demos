@@ -7,4 +7,7 @@ package demo.cacheGame;
  * Time: 下午5:51
  */
 public class CacheGame5 {
+    public static void main(String[] args) {
+        //
+    }
 }
